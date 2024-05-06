@@ -1,4 +1,7 @@
-<h1>Gilmar Pimenta</h1>
+<div>
+  <h1>Gilmar Pimenta</h1>
+</div>
+
 - 👋 Hi, I’m @ghgrafos
 - 👀 I’m interested in graphics and motions ...
 - 🌱 I’m currently learning base core php. Extensions...
