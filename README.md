@@ -2,13 +2,16 @@
   <h1>Gilmar Pimenta</h1>
 </div>
 <div align="center">
-<p>
-- 👋 Hi, I’m @ghgrafos
-<br>  
+
+<h3>- 👋 Hi, I’m @ghgrafos</h3>
+<br>
+<h3>
 - 👀 I’m interested in graphics and motions ...
+<br>  
 - 🌱 I’m currently learning base core php. Extensions...
+<br>  
 - 💞️ I’m looking to collaborate on ideas...
-</p>
+</h3>
 <h1>- 📫 How to reach me ...</h1> 
 </div>
 <div align="center">
