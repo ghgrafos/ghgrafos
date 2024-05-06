@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/ghgrafos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GilmarPimenta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouzaAlves&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarPimenta&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!---
 ghgrafos/ghgrafos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
