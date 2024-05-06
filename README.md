@@ -33,7 +33,7 @@
   icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg"> -->
   <img align="center" alt="php" height="30" width="40" src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
 </div>
-<div>
+<div style="display: inline_block" align="center">
   <h1>- 📫 How to reach me ...</h1>
 </div>
 <!---
