@@ -12,7 +12,7 @@
 <br>  
 - 💞️ I’m looking to collaborate on ideas...
 </h3>
-<h1>- 📫 How to reach me ...</h1> 
+ 
 </div>
 <div align="center">
   <a href="https://github.com/ghgrafos">
@@ -32,6 +32,9 @@
   <!-- <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill- 
   icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg"> -->
   <img align="center" alt="php" height="30" width="40" src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
+</div>
+<div>
+  <h1>- 📫 How to reach me ...</h1>
 </div>
 <!---
 ghgrafos/ghgrafos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
