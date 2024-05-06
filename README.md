@@ -2,11 +2,14 @@
   <h1>Gilmar Pimenta</h1>
 </div>
 <div align="center">
+<p>
 - 👋 Hi, I’m @ghgrafos
+<br>  
 - 👀 I’m interested in graphics and motions ...
 - 🌱 I’m currently learning base core php. Extensions...
 - 💞️ I’m looking to collaborate on ideas...
-- 📫 How to reach me ...
+</p>
+<h1>- 📫 How to reach me ...</h1> 
 </div>
 <div align="center">
   <a href="https://github.com/ghgrafos">
