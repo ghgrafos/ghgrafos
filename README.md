@@ -3,40 +3,50 @@
 </div>
 <div align="center">
 
-<h3>- 👋 Hi, I’m @ghgrafos</h3>
-<br>
+<h3>👋  Hi, I’m @ghgrafos</h3>
+<hr>
+<hr>
 <h3>
-- 👀 I’m interested in graphics and motions ...
-<br>  
-- 🌱 I’m currently learning base core php. Extensions...
-<br>  
-- 💞️ I’m looking to collaborate on ideas...
+👀  I’m interested in graphics and motions ...
+<br> <br> 
+🌱  I’m currently learning base core php. Extensions...
+<br> <br> 
+💞️  I’m looking to collaborate on ideas...
 </h3>
- 
+<hr> 
 </div>
+<hr>
+<br>
 <div align="center">
   <a href="https://github.com/ghgrafos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ghgrafos&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghgrafos&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+<hr>
+<br>
+<div style="display: inline_block" align="center">
+    <img align="center" alt="vue" height="50" width="50" src="https://skillicons.dev/icons?i=vue">
+    <img align="center" alt="postman" height="50" width="50" src="https://skillicons.dev/icons?i=postman">
+    <img align="center" alt="spring" height="50" width="50" src="https://skillicons.dev/icons?i=spring">
+    <img align="center" alt="cloudflare" height="50" width="50" src="https://skillicons.dev/icons?i=cloudflare">
+    <img align="center" alt="django" height="50" width="50" src="https://skillicons.dev/icons?i=django">
+    <img align="center" alt="jenkins" height="50" width="50" src="https://skillicons.dev/icons?i=jenkins">
+    <img align="center" alt="css" height="50" width="50" src="https://skillicons.dev/icons?i=css">
+    <img align="center" alt="html5" height="50" width="50" src="https://skillicons.dev/icons?i=html">
+    <img align="center" alt="java" height="50" width="50" src="https://skillicons.dev/icons?i=java">
+    <img align="center" alt="php" height="50" width="50" src="https://skillicons.dev/icons?i=php">
+    <img align="center" alt="gcp" height="50" width="50" src="https://skillicons.dev/icons?i=gcp">
+    <img align="center" alt="mysql" height="50" width="50" src="https://skillicons.dev/icons?i=mysql">
+</div>
+<br>
+<hr>
+<br>
+<div style="display: inline_block" align="center">
+  <h3>📫  How to reach me ...</h3>
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL- 
-   Dark.svg">
-  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!-- <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill- 
-  icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg"> -->
-  <img align="center" alt="php" height="30" width="40" src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3">
-</div>
 <div style="display: inline_block" align="center">
-  <h1>- 📫 How to reach me ...</h1>
+  <a href = "mailto:grafos@outlook.com.br"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gilmar-pimenta-a90578117/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-<!---
-ghgrafos/ghgrafos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
