@@ -1,0 +1,19 @@
+{
+    "name": "admin/ghgrafos",
+    "description": "diretorio pai",
+    "type": "project",
+    "license": "apache2",
+    "autoload": {
+        "psr-4": {
+            "Ghgrafos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gilmar",
+            "email": "grafos@outlook.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
