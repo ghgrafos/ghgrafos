@@ -11,3 +11,5 @@ if (PHP_SAPI === 'cli-server') {
     }
 }
 require dirname(__DIR__) . '/vendor/autoload.php';
+
+include('config/bootstrap.php');
