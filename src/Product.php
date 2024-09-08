@@ -1,25 +1,20 @@
 <?php
-/**
- * @Entity @Table(name="products")
- */
+// src/Product.php
+
+use Doctrine\ORM\Mapping as ORM;
+
+#[ORM\Entity]
+#[ORM\Table(name: 'product')]
 class Product
 {
-    /** @Id @Column(type="integer") @GeneratedValue */
-    protected $id;
-    /** @Column(type="string") */
-    protected $name;
+    #[ORM\Id]
+    #[ORM\Column(type: 'integer')]
+    #[ORM\GeneratedValue]
+    private int|null $id = null;
+    #[ORM\Column(type: 'string')]
+    private string $name;
 
-    public function getId()
-    {
-        return $this->id;
-    }
-
-    public function getName()
-    {
-        return $this->name;
-    }
-
-    public function setName($name)
+    public function setName(string $name): void
     {
         $this->name = $name;
     }

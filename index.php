@@ -2,6 +2,8 @@
 
 require 'public' . DIRECTORY_SEPARATOR . 'index.php';
 
+require 'vendor/autoload.php';
+
 
 #!/usr/bin/env php
 // bin/doctrine
