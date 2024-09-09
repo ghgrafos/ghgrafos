@@ -5,7 +5,7 @@
     "license": "apache2",
     "autoload": {
         "psr-4": {
-            "Ghgrafos\\": "src/"
+            "App\\": "app/"
         }
     },
     "authors": [
@@ -19,6 +19,8 @@
         "monolog/monolog": "^3.7",
         "doctrine/orm": "^3",
         "doctrine/dbal": "^4",
-        "symfony/cache": "^7"
+        "symfony/cache": "^7",
+        "symfony/dotenv": "^7.1",
+        "doctrine/doctrine-bundle": "^2.13"
     }
 }

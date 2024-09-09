@@ -1,11 +1,12 @@
 <?php
-// src/Projects.php
+namespace App;
+// app/Products.php
 
 use Doctrine\ORM\Mapping as ORM;
 
 #[ORM\Entity]
-#[ORM\Table(name: 'projects')]
-class Projects
+#[ORM\Table(name: 'products')]
+class Products
 {
     #[ORM\Id]
     #[ORM\Column(type: 'integer')]

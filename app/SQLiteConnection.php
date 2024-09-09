@@ -1,5 +1,5 @@
 <?php
-namespace Ghgrafos;
+namespace App;
 
 /**
  * SQLite connnection

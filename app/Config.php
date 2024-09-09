@@ -1,6 +1,6 @@
 <?php
 
-namespace Ghgrafos;
+namespace App;
 
 class Config {
    /**
