@@ -16,4 +16,5 @@ include('config/bootstrap.php');
 
 include('config/bundles.php');
 
-require('templates/index.php');
+require('templates/index-docs.php');
+

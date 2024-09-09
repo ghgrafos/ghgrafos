@@ -84,4 +84,20 @@ class SQLiteTableList {
         return $products;
     }
 
+                    /**
+     * Get all tasks
+     * @return type
+     */
+    public function getDocumentsList() {
+        $stmt = $this->pdo->query('SELECT document_id, doc '
+                . 'FROM documents');
+
+        $documents = [];
+        while ($document = $stmt->fetchObject()) {
+            $documents[] = $document;
+        }
+
+        return $documents;
+    }
+
 }

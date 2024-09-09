@@ -15,6 +15,8 @@ $projects = $sqlite->getProjectsList();
 
 $tasks = $sqlite->getTasksList();
 
+$documents = $sqlite->getDocumentsList();
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -31,7 +33,7 @@ $tasks = $sqlite->getTasksList();
     <body>
         <div class="container">
             <div class="page-header">
-                <h1>GHGRAFOS Tables</h1>
+                <h1>Dashboard</h1>
             </div>
 
             <table class="table table-bordered">
@@ -82,6 +84,23 @@ $tasks = $sqlite->getTasksList();
                             <td>table</td>
                             <td><?php echo $task->id; ?></td>
                             <td><?php echo $task->name; ?></td>
+                        </tr>
+                    <?php endforeach; ?>
+                </tbody>
+
+                <thead>
+                    <tr>
+                        <th>Documents</th>
+                        <th>id</th>
+                        <th>doc</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php foreach ($documents as $document) : ?>
+                        <tr>
+                            <td>table</td>
+                            <td><?php echo $document->document_id; ?></td>
+                            <td><?php echo $document->doc; ?></td>
                         </tr>
                     <?php endforeach; ?>
                 </tbody>
