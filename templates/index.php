@@ -4,6 +4,8 @@ require 'vendor/autoload.php';
 use App\SQLiteConnection as SQLiteConnection;
 use App\SQLiteTableList as SQLiteTableList;
 
+$pdo = (new SQLiteConnection)->connect();
+
 $sqlite = new SQLiteTableList((new SQLiteConnection())->connect());
 
 // get the table list
@@ -14,8 +16,6 @@ $products = $sqlite->getProductsList();
 $projects = $sqlite->getProjectsList();
 
 $tasks = $sqlite->getTasksList();
-
-$documents = $sqlite->getDocumentsList();
 
 ?>
 <!DOCTYPE html>
@@ -84,23 +84,6 @@ $documents = $sqlite->getDocumentsList();
                             <td>table</td>
                             <td><?php echo $task->id; ?></td>
                             <td><?php echo $task->name; ?></td>
-                        </tr>
-                    <?php endforeach; ?>
-                </tbody>
-
-                <thead>
-                    <tr>
-                        <th>Documents</th>
-                        <th>id</th>
-                        <th>doc</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <?php foreach ($documents as $document) : ?>
-                        <tr>
-                            <td>table</td>
-                            <td><?php echo $document->document_id; ?></td>
-                            <td><?php echo $document->doc; ?></td>
                         </tr>
                     <?php endforeach; ?>
                 </tbody>
